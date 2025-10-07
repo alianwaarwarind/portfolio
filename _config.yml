@@ -19,7 +19,8 @@ email: alianwaar321@gmail.com
 url: "https://alianwaarwarind.github.io"
 # The subpath of your site, e.g. /blog/. Must start with a slash /.
 baseurl: "/portfolio"
-description: A personal portfolio for me to showcase what I am passionate about, what I am up to, and what I'd like to do.twitter_username: username
+description: A personal portfolio for me to showcase what I am passionate about, what I am up to, and what I'd like to do.
+twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
 search: true
@@ -60,7 +61,7 @@ plugins:
 author:
   name   : "Ali Anwaar"
   avatar : "/portfolio/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am genuinely at my happiest when I am teaching something."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
