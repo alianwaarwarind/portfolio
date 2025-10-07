@@ -5,8 +5,8 @@ main:
   - title: "Writings & Blog"
     url: /posts/
   - title: "Projects"
-    url: /EdTech/
-    title: "Projects"
+    url: /projects/
+    title: "Publications"
+    url: /publications/
+  - title: "Advocacy"
     url: /advocacy/
-  - title: "About"
-    url: /about/
