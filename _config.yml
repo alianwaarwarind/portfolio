@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+title: Ali Anwaar | Portfolio
+email: alianwaar321@gmail.com
+# The absolute base URL of your site (protocol and hostname)
+url: "https://alianwaarwarind.github.io"
+# The subpath of your site, e.g. /blog/. Must start with a slash /.
+baseurl: "/portfolio"
+description: A personal portfolio for me to showcase what I am passionate about, what I am up to, and what I'd like to do.twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Ali Anwaar"
+  avatar : "/portfolio/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
