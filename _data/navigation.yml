@@ -1,7 +1,7 @@
 # main links (Top Navigation Bar)
 main:
   - title: "CV & Experience"
-    url: _pages/cv.md
+    url: /cv/
   - title: "Writings & Blog"
     url: /posts/
   - title: "Projects"
