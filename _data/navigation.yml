@@ -1,9 +1,12 @@
+# main links (Top Navigation Bar)
 main:
-  - title: "Posts"
+  - title: "CV & Experience"
+    url: /cv/
+  - title: "Writings & Blog"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Projects"
+    url: /EdTech/
+    title: "Projects"
+    url: /advocacy/
   - title: "About"
     url: /about/
