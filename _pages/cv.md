@@ -33,7 +33,7 @@ author_profile: true
         <h3 class="feature__title">The University of Toledo – Pre-Law Studies</h3>
         <p><strong>Aug. 2022 – Dec. 2022 | Toledo, Ohio, U.S.</strong></p>
         <ul>
-            <li>Maintained a **perfect 4.0/4.0 GPA**, earning a place on the President’s List.</li>
+            <li>Maintained a **4.0/4.0 GPA**, earning a place on the President’s List.</li>
             <li>Served as a **cultural ambassador** through the Global UGRAD Exchange Program.</li>
         </ul>
     </div>
@@ -51,7 +51,7 @@ author_profile: true
 
 <div class="feature__wrapper">
     <div class="feature__item">
-        <h3 class="feature__title">Global UGRAD Semester Exchange Program</h3>
+        <h3 class="feature__title">Principal Candidate, Global UGRAD Semester Exchange Program</h3>
         <p><strong>Aug. 2022 – Dec. 2022</strong></p>
         <p>Nominated by USEFP/U.S. Department of State for this highly competitive educational and cultural exchange program.</p>
     </div>
