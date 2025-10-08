@@ -2,7 +2,7 @@
 main:
   - title: "CV & Experience"
     url: /cv/
-  - title: "Writings & Blog"
+  - title: "Writings & Insights"
     url: /posts/
   - title: "Projects"
     url: /projects/
