@@ -7,7 +7,7 @@ author_profile: true
 
 ## Professional Summary
 
-> Dedicated legal professional, educator, and author with a passion for transforming legal education in Pakistan. I currently serve as a Law Teacher at Roots Ivy International and the Head of Publishing at The Law Academy. My commitment to educational innovation is also evident in co-founding LearnUp Pakistan, an EdTech platform aimed at breaking barriers to education. I graduated at the top 5% of my class and served as a cultural ambassador between the U.S. and Pakistan.
+> Dedicated legal professional, educator, and author with a passion for transforming legal education in Pakistan. I currently serve as a Law Teacher at Roots Ivy International and the Head of Publishing at The Law Academy. My commitment to educational innovation is also evident in co-founding LearnUp Pakistan, an EdTech platform aimed at breaking barriers to education.
 
 ***
 
