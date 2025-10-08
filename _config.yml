@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Ali Anwaar"
   avatar : "assets/images/bio-photo.jpg"
-  bio    : "Law Teacher | Lawyer | UGRAD 2022 Alumnus | IVolunteer Writers Council Fellow | E-Learning Specialist."
+  bio    : "Law Teacher &#124; Lawyer &#124; UGRAD 2022 Alumnus &#124; IVolunteer Writers Council Fellow &#124; E-Learning Specialist."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
