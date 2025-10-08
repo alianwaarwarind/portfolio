@@ -13,7 +13,14 @@ author_profile: true
 
 ## Professional Experience
 
-### Co-Founder, LearnUp Pakistan
+### Law Teacher, Roots Ivy International
+**Nov. 2024 – Present | Bahawalpur**
+
+* Delivers comprehensive legal instruction across the academic spectrum, from A' Levels to University-level courses, demonstrating broad subject mastery and teaching versatility.
+* Designs curricula and assessments to meet diverse student needs, focusing on critical thinking, legal analysis, and examination success.
+* Provides one-on-one mentorship to students, guiding academic development and career pathways within the legal field.
+*
+* ### Co-Founder, LearnUp Pakistan
 **Aug. 2023 – Present | Bahawalpur**
 
 * Co-founded a budding EdTech platform with the mission to enhance educational accessibility and inclusivity in Pakistan, eliminating geographical and physical constraints.
