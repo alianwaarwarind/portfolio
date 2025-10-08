@@ -16,7 +16,7 @@ author_profile: true
 ### Law Teacher, Roots Ivy International (Nov. 2024 – Present)
 **Focus:** Delivers comprehensive **legal instruction across the academic spectrum**, from A' Levels to University-level classes, demonstrating broad subject mastery and teaching versatility.
 * Established a **Mooting Society** to enhance students' advocacy and public speaking skills.
-* Initiated and facilitated socially beneficial activities, including awareness talks on **digital rights and safety** and other legal topics.
+* Facilitated and empowered students in launching community inititatives, including awareness talks on **digital rights and safety** and other legal topics.
 
 ### Head of Publishing, The Law Academy (Oct. 2019 – Present)
 **Focus:** Spearheaded a **revolutionary approach to legal education in Pakistan**, leading a dynamic team to enhance the learning experience.
@@ -32,7 +32,7 @@ author_profile: true
 
 ## Legal Internship
 
-### Legal Intern, Farooq Law Associates (Sept. 2023 – Present)
+### Legal Intern, Farooq Law Associates (Sept. 2023 – Nov, 2024)
 **Focus:** Demonstrated a strong commitment to public interest and provided pro bono legal assistance to individuals facing challenges.
 * Conducted comprehensive legal research on relevant case laws and statutes to provide analysis for legal briefs.
 * Drafted and edited legal documents, including contracts, pleadings, and correspondence, ensuring compliance with legal standards.
