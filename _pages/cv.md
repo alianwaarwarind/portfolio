@@ -11,7 +11,7 @@ author_profile: true
 
 ***
 
-## Professional Experience (Timeline)
+## Professional Experience
 
 ### Law Teacher, Roots Ivy International (Nov. 2024 – Present)
 **Focus:** Delivers comprehensive **legal instruction across the academic spectrum**, from A' Levels to University-level classes, demonstrating broad subject mastery and teaching versatility.
@@ -26,7 +26,7 @@ author_profile: true
 
 ***
 
-## Education & Exchange (Visual Blocks)
+## Education & Exchange
 
 <div class="feature__wrapper">
     <div class="feature__item">
